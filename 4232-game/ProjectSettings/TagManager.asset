@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - GM
+  - House1
+  - House2
+  - House3
+  - House4
+  - House5
+  - House6
+  - Key
+  - Exit1
+  - Exit2
+  - Exit3
+  - Exit4
+  - Exit5
+  - Exit6
+  - FinalExt
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - PlayerProjectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: subZero
+    uniqueID: 3012934457
+    locked: 0
+  - name: walls
+    uniqueID: 1936794851
+    locked: 0
+  - name: Ground
+    uniqueID: 500439161
+    locked: 0
+  - name: Houses
+    uniqueID: 524164967
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
